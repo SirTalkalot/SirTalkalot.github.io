@@ -1,0 +1,13 @@
+
+body{
+  background-image: url(../images/swirl_pattern/swirl_pattern.png);
+  font-family: Lucida;
+  font-size: 27px;
+}
+.footer {
+  height: 30px;
+  width: 100%;
+  background-color: #E6F3AA;
+  margin: 0px;
+  padding: 0px;
+}
